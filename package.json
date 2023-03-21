@@ -1,0 +1,13 @@
+{
+  "name": "sample-node-app",
+  "version" : "0.0.1",
+  "description": "An application to see how GCP Cloud Run works",
+  "author": "John Murray",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
